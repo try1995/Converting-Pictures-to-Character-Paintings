@@ -1,0 +1,68 @@
+每日答答 Python入门 web开发 数据分析 人工智能 聚合全球Python解决方案搜索引擎
+每日答答 web开发 数据分析 人工智能
+聚合全球Python解决方案搜索引擎
+每日答答每日答答每日答答每日答答每日答答每日答答
+每日答答是专注于解决Python程序员工作难题的在线社区。以Python基础、web开发、数据分析、人工智能为核心板块。依托先进搜索技术，集结国内众多Python领域技术大牛，收纳海量的Python问题解答，致力于在中国帮助100万精益极客提升工作效能，创造个人和企业价值，在业内成为程序员的“小谷歌”。
+
+目前每日答答已整理CSDN、简书、博客园、思否、Stack Overflow等多个国内外优质Python技术内容，并为200+家数据分析、人工智能机构、1000+Python从业者提供精准服务。
+
+Python基础： 针对入门人群提供海量Python基础知识工具包，包含数据类型、语法、流程控制、常用模块、面向对象编程、迭代等;
+
+Web开发： Python Web开发热门类库，如Django、Flask、web2py、Tornado、pyramid、Bottle、TurboGears、Pylons、Twisted等;
+
+数据分析： Python数据分析热门框架，如Request、BeautifulSoup、Matplotlib、scipt、Redis、Json、Scrapy、Xpath、Pandas、Numpy、MongoDB、MySQL;
+
+人工智能： Python下人工智能相关的框架和类库，如TensorFlow、jieba、pyTorch、scikit—learn、Gensim；
+
+每日答答如何保证用户精准搜索到需要的结果。通过各种维度数据以及用户所形成历史数据中的被采纳程度、领域专业能力、技术深度等各类数据进行运算后精准推送提供内容。
+
+我们为了让用户不用过多花费成本，每个问题只提供最标注的搜索结果，保证80%的内容用户可以直接使用。
+专一
+专一
+我们不臃肿内容堆积且只专注于Python领域
+
+快速
+快速
+你不再需要翻墙和忍受龟速
+
+精准
+精准
+我们只提供已解决的答案
+
+效率
+效率
+我们以实现问题高效解决为目的
+每日答答 Python入门 web开发 数据分析 人工智能 聚合全球Python解决方案搜索引擎
+每日答答 web开发 数据分析 人工智能
+聚合全球Python解决方案搜索引擎
+每日答答每日答答每日答答每日答答每日答答每日答答
+每日答答是专注于解决Python程序员工作难题的在线社区。以Python基础、web开发、数据分析、人工智能为核心板块。依托先进搜索技术，集结国内众多Python领域技术大牛，收纳海量的Python问题解答，致力于在中国帮助100万精益极客提升工作效能，创造个人和企业价值，在业内成为程序员的“小谷歌”。
+
+目前每日答答已整理CSDN、简书、博客园、思否、Stack Overflow等多个国内外优质Python技术内容，并为200+家数据分析、人工智能机构、1000+Python从业者提供精准服务。
+
+Python基础： 针对入门人群提供海量Python基础知识工具包，包含数据类型、语法、流程控制、常用模块、面向对象编程、迭代等;
+
+Web开发： Python Web开发热门类库，如Django、Flask、web2py、Tornado、pyramid、Bottle、TurboGears、Pylons、Twisted等;
+
+数据分析： Python数据分析热门框架，如Request、BeautifulSoup、Matplotlib、scipt、Redis、Json、Scrapy、Xpath、Pandas、Numpy、MongoDB、MySQL;
+
+人工智能： Python下人工智能相关的框架和类库，如TensorFlow、jieba、pyTorch、scikit—learn、Gensim；
+
+每日答答如何保证用户精准搜索到需要的结果。通过各种维度数据以及用户所形成历史数据中的被采纳程度、领域专业能力、技术深度等各类数据进行运算后精准推送提供内容。
+
+我们为了让用户不用过多花费成本，每个问题只提供最标注的搜索结果，保证80%的内容用户可以直接使用。
+专一
+专一
+我们不臃肿内容堆积且只专注于Python领域
+
+快速
+快速
+你不再需要翻墙和忍受龟速
+
+精准
+精准
+我们只提供已解决的答案
+
+效率
+效率
+我们以实现问题高效解决为目的
